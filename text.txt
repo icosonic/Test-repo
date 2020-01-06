@@ -1,2 +1,4 @@
 the first github text file
-a change
+change 1
+change 2
+
